@@ -1,4 +1,4 @@
-# Image ClassificationnCNN
+# Image Classification using CNN
 
 ## Overview
 Designed and trained a Convolutional Neural Network to classify 
